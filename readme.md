@@ -30,4 +30,4 @@ Performance Metrics: Accuracy, precision, recall, F1-score, and confusion matrix
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
-Machine Learning (Logistic Regression, etc.)
+Machine Learning (Logistic Regression)
